@@ -1,3 +1,17 @@
+# Update 
+=>To start proxy server 
+  1. Go to challenge directory
+  2. npm install 
+  3. npm start
+
+=>To start application
+  1. Go to challenge/my-app directory
+  2. npm install 
+  3. npm start
+
+
+
+
 ## Introduction:
 
 Believe it or not, Walmart Mexico is a growing startup-like division within Walmart that is looking for fullstack front-end developers like yourself to help it scale to a be a billion dollar revenue division.
@@ -34,8 +48,7 @@ When you are done, the hiring team should be able to get your code up and runnin
 - then run -> npm start
 
 ---
-## Final Comments
-
+## Final Commentscdcd
 We know that you may have questions and typically, at work, those questions are resolved when receiving mocks or during sprint-planning. But since this is an interview, make your best guess to unblock yourself and keep on moving. Use comments in code if needed to convey your thoughts. In our division, this type of problem comes up every day and you must be able to make good judgements and be able to proceed even with the lack of clarity.
 
 Also… fix any bugs you find along the way. Not sure if we left some in there just like in real life :P
@@ -45,4 +58,4 @@ Good luck! We look forward to reading your implementation.
 ---
 ## Attached
 
-- PDF of the UI design mocks
+- PDF of the UI design mocks  

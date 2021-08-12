@@ -17,13 +17,16 @@ const mockDBCall = (dataAccessMethod) => {
 // MOCK DB CALLS
 //----------------
 const getUsers = () => {
+  
     const dataAccessMethod = () => _.map(db.usersById, userInfo => userInfo)
     return mockDBCall(dataAccessMethod);
 };
 
 const getListOfAgesOfUsersWith = (item) => {
+    
     const dataAccessMethod = () => {
         // fill me in :)
+      return  db.itemsOfUserByUsername
     }
     return mockDBCall(dataAccessMethod);
 }
